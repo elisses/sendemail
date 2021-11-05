@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/sendemail/static/css/main.d265bf52.chunk.css",
+    "main.js": "/sendemail/static/js/main.fdf1dbe3.chunk.js",
+    "main.js.map": "/sendemail/static/js/main.fdf1dbe3.chunk.js.map",
+    "runtime-main.js": "/sendemail/static/js/runtime-main.d354f532.js",
+    "runtime-main.js.map": "/sendemail/static/js/runtime-main.d354f532.js.map",
+    "static/js/2.cd97f5d3.chunk.js": "/sendemail/static/js/2.cd97f5d3.chunk.js",
+    "static/js/2.cd97f5d3.chunk.js.map": "/sendemail/static/js/2.cd97f5d3.chunk.js.map",
+    "static/js/3.1e5eed69.chunk.js": "/sendemail/static/js/3.1e5eed69.chunk.js",
+    "static/js/3.1e5eed69.chunk.js.map": "/sendemail/static/js/3.1e5eed69.chunk.js.map",
+    "index.html": "/sendemail/index.html",
+    "static/css/main.d265bf52.chunk.css.map": "/sendemail/static/css/main.d265bf52.chunk.css.map",
+    "static/js/2.cd97f5d3.chunk.js.LICENSE.txt": "/sendemail/static/js/2.cd97f5d3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d354f532.js",
+    "static/js/2.cd97f5d3.chunk.js",
+    "static/css/main.d265bf52.chunk.css",
+    "static/js/main.fdf1dbe3.chunk.js"
+  ]
+}
